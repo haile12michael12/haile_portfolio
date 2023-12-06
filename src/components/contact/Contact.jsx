@@ -24,27 +24,27 @@ const Contact = () => {
                         <i className="bx bx-mail-send contact__card-icon"></i>
 
                         <h3 className="contact__card-title">Email</h3>
-                        <span className="contact__card-data">adityaa.shuklaa07@gmail.com</span>
+                        <span className="contact__card-data">michaelhaile12@yahoo.com</span>
 
-                        <a href="mailto:adityaa.shuklaa07@gmail.com" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                        <a href="mailto:michaelhaile12@yahoo.com" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
 
                     <div className="contact__card">
                         <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                         <h3 className="contact__card-title">Whatsapp</h3>
-                        <span className="contact__card-data">+91 7302067688</span>
+                        <span className="contact__card-data">+251 955160603</span>
 
-                        <a href="https://api.whatsapp.com/send?phone=917302067688&text=Hello" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=251955160603&text=Hello" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
 
                     <div className="contact__card">
                         <i className="bx bxl-twitter contact__card-icon"></i>
 
                         <h3 className="contact__card-title">Twitter</h3>
-                        <span className="contact__card-data">@Adityaa_shuklaa</span>
+                        <span className="contact__card-data"></span>
 
-                        <a href="https://twitter.com/Adityaa_shuklaa" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                        <a href="https://twitter.com/" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
                 </div>
             </div>
